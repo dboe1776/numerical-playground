@@ -1,5 +1,5 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dboe1776/numerical-playground/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dboe1776/numerical-ventures/master)
 
-# numerical-playground
+# numerical-ventures
 Repository for exploring various numerical methods
 
